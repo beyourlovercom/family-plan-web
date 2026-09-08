@@ -1,3 +1,1 @@
-source_repo=beyourlovercom/family-plan
-source_commit=d05d6c681b2525a77ed608a39bad85a69b7a66ca
-build=apps/web npm run build
+d30c07445c3e14ef870a15acba9b3b6585644409
