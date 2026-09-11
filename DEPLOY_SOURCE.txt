@@ -1,1 +1,5 @@
-ff69cedd73cc99bc28cd0251262ffc58a03058bc
+source_repo=beyourlovercom/family-plan
+source_commit=2707112317a6fc2f64b75b97e123e7658114ec74
+web_v1_1_accept_commit=fce97562ff8aac479c8514f74fd2d863de4addd0
+build=apps/web npm run build
+rollback_deploy_commit=6246a474c9ca09619b405a1031e7e5811436f255
